@@ -4,10 +4,8 @@ from time import sleep
 import config
 
 def db_connect():
-    sleep(1)
     global conn
     conn = sqlite3.connect(config.name_database, check_same_thread=False)
-    sleep(1)
     global cursor
     cursor = conn.cursor()
 

@@ -1,0 +1,12 @@
+BotToken = '6708933796:AAGMTGwn-wSgXLI24fWQe0Jow-xCvfvioCk'
+commands_admin = 'AdminPanel'
+ClearKonsole = 'clear'
+name_database = 'db/db.db'
+reboot_command = 'Nope'
+admin_id_1 = 0000000000
+user_dz_1 = 0000000000
+user_dz_2 = 0000000000  
+user_dz_3 = 0000000000  
+user_dz_4 = 0000000000
+user_schedule_1 = 0000000000
+user_schedule_2 = 0000000000
